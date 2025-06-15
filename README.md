@@ -22,6 +22,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=loganzzz7&theme=radical&no-bg=true&margin-w=10&column=4" />
 </p>
+
 ---
 
 ### 🚀 Personal Projects
