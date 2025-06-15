@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/zhengkun-zhang-404b77229/" target="_blank">LinkedIn</a> • 
-  <a href="mailto:loganzhang2016@gmail.com">Email</a> • 
+  <a href="mailto:loganzhang2016@gmail.com">Email</a>
 </p>
 
 ---
