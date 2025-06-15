@@ -32,9 +32,10 @@
 
 ---
 
-### 🎓 Current
+### 📝 Bio
 
 - 🎓 Master’s in CS @ University of Chicago (Class of 2027)
+- 🎓 Bachelor's in CS @ Washington University in St. Louis (Class of 2025)
 - 💡 Port LLC (Startup)
 
 ---
