@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there 👋 I'm Zhengkun (Logan) Zhang
 
-<!--
-**loganzzz7/loganzzz7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ **Tech Stack**
+![JS](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
+![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws)
 
-Here are some ideas to get you started:
+📊 **GitHub Stats**
+![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=loganzzz7&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 **Personal Projects**  
+- 🔗 [Landing Page Startup](https://www.portchargers.info/)  
