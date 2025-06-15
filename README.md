@@ -19,8 +19,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=loganzzz7&show_icons=true&count_private=true&theme=radical" width="420" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loganzzz7&layout=compact&theme=radical" alt="Top Langs" width="420" height="150"/>
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=loganzzz7&theme=radical&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=loganzzz7&theme=radical&no-bg=true&margin-w=10&column=4" />
+</p>
 ---
 
 ### 🚀 Personal Projects
