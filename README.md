@@ -18,8 +18,8 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=loganzzz7&show_icons=true&theme=radical" alt="Logan's GitHub stats" width="420" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loganzzz7&layout=compact&theme=radical" alt="Top Langs" width="420" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=loganzzz7&show_icons=true&theme=radical" alt="Logan's GitHub stats" width="420" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loganzzz7&layout=compact&theme=radical" alt="Top Langs" width="420" height="180"/>
 </p>
 
 ---
