@@ -24,7 +24,7 @@
 
 ### 🚀 Personal Projects
 
-- 🔌 [Landing Page Startup](https://portchargers.info) — Built with React + DialogFlow API
+- 🔌 [Landing Page Startup](https://github.com/loganzzz7/portchargers.info) — Built with React + DialogFlow API
 - 📅 [Calendar App (LAMP Stack)](https://github.com/loganzzz7)
 - 🥘 [Recipe Sharing App (MERN Stack)](https://github.com/loganzzz7)
 - 🕹️ [2D Unity Game](https://ottoma.itch.io/finalproject)
