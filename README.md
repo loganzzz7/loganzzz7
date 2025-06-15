@@ -18,8 +18,8 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=loganzzz7&show_icons=true&theme=radical" alt="Logan's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loganzzz7&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=loganzzz7&show_icons=true&theme=radical" alt="Logan's GitHub stats" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loganzzz7&layout=compact&theme=radical" alt="Top Langs" width="420"/>
 </p>
 
 ---
@@ -37,9 +37,7 @@
 ### 🎓 Current
 
 - 🎓 Master’s in CS @ University of Chicago (Class of 2027)
-- 🧪 Research Assistant @ Federal Reserve Bank of St. Louis (FinOps on AWS)
-- 💡 CTO @ Port LLC (Startup)
-- 👨‍🏫 TA for Web Dev + Rapid Prototyping @ WashU
+- 💡 Port LLC (Startup)
 
 ---
 
