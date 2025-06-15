@@ -3,8 +3,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/zhengkun-zhang-404b77229/" target="_blank">LinkedIn</a> • 
   <a href="mailto:loganzhang2016@gmail.com">Email</a> • 
-  <a href="https://ottoma.itch.io/finalproject" target="_blank">2D Unity Game</a> • 
-  <a href="https://ioleg.itch.io/backrooms" target="_blank">3D Unity Game</a>
 </p>
 
 ---
