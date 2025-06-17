@@ -10,7 +10,7 @@
 
 ### 🧰 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,java,cs,react,nodejs,mongodb,mysql,php,aws,docker,linux,bash,arduino,raspberrypi,androidstudio,unity,github" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,java,cs,react,vim,terraform,nodejs,mongodb,mysql,php,aws,docker,linux,bash,arduino,raspberrypi,androidstudio,unity,github" />
 </p>
 
 ---
