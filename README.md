@@ -28,7 +28,7 @@
 
 ### 🚀 Personal Projects
 
-- ⏰ [onEmployment (MERN + tailwind + AWS S3)](https://github.com/loganzzz7/onemployment)
+- ⏰ [onEmployment --Github for Locking In (MERN + tailwind + AWS S3)](https://github.com/loganzzz7/onemployment)
 - 🏆 [League of Legends Tournament Winner ML Predictor (Python + Node.js + Pandas/NumPy + scikit-learn)](https://github.com/loganzzz7/lol-tourney-prediction)
 - 🔌 [Landing Page Startup (Built with React + DialogFlow API + MailChimp API)](https://github.com/loganzzz7/portchargers.info)
 - 📅 [Calendar App (LAMP Stack)](https://github.com/loganzzz7/calendar-app)
