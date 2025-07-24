@@ -50,7 +50,7 @@
 ### 💬 Ask Me About
 
 - Full-Stack Development (MERN, LAMP)
-- Embedded Systems (Arduino, Raspberry Pi)
+- Embedded Systems (Arduino, Raspberry Pi, CUDA C)
 - Cloud (AWS EC2, Lambda, Terraform)
 - Game Dev (Unity 2D/3D)
 - Building Startups While in School
